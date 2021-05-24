@@ -1,3 +1,5 @@
+# Link to video 
+
 # README Generator
 
 ## Table of Contents:
@@ -16,8 +18,12 @@ This is the MVP for a README generator. THe concept behind this project is to be
 ## Installation
 1. Clone Readme-Generator repository to a local file. 2. Download the required NPM files by typing 'NPM Install". 3. Open your terminal. 4. Type "node index". 5. Follow prompts in order to generate your own readme.md files.
 
+![](utils\Screenshots\NPMINSTALL.JPG)
+
 ## Usage
 Once you have downloaded the correct NMP files and opened your terminal, type node index in order to launch the prompts. After each question press enter and it will continue until your README is complete.
+
+![](utils\Screenshots\Instructions.JPG)
 
 ## Contributing
 People can contribute to this project by helping refactor the code, introduce validation and cleaner coding.
@@ -33,3 +39,5 @@ https://github.com/Rarmstrong45
 
 ## E-mail
 Ryan_armstrong07@yahoo.com
+
+
