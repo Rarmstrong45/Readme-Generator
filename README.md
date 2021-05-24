@@ -1,5 +1,7 @@
 # Link to video 
 
+https://drive.google.com/file/d/1VXrCEdV3aYNUgS25C2khJicnDpobuC2K/view
+
 # README Generator
 
 ## Table of Contents:
@@ -11,10 +13,8 @@
   6. [License](#License)
   7. [GitHub](#GitHub)
   8. [E-mail](#E-mail)
-
 ## Description
 This is the MVP for a README generator. THe concept behind this project is to be able to use node.js in order to generate a README.MD file after users input from the command line. 
-
 ## Installation
 1. Clone Readme-Generator repository to a local file. 2. Download the required NPM files by typing 'NPM Install". 3. Open your terminal. 4. Type "node index". 5. Follow prompts in order to generate your own readme.md files.
 
@@ -30,14 +30,10 @@ People can contribute to this project by helping refactor the code, introduce va
 
 ## Tests
 
-
 ## License
  
-
 ## GitHub
 https://github.com/Rarmstrong45 
 
 ## E-mail
 Ryan_armstrong07@yahoo.com
-
-
